@@ -1,8 +1,7 @@
-# ActivityManagement - ITP  :octocat:
 
 
-[SLIIT](https://www.sliit.lk) - 2year 2sem - project
-<br/>
+
+
 <br/>
 
 Build with
@@ -19,7 +18,7 @@ N - Node.js
 
 <br/>
 
-###### helpfull links
+Helpfull links
 
 - [MongoDB](https://www.mongodb.com/cloud/atlas)
 
